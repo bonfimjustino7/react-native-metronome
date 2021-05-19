@@ -1,4 +1,3 @@
-# Is project is forkied from kotlyar562
 # react-native-metronome
 
 # NOTE! For now supported only Android!
