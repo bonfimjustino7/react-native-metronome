@@ -104,7 +104,7 @@ public class RNMetronomeModule extends ReactContextBaseJavaModule {
 
   @ReactMethod
   public void stop() {
-    if (soundPool != null) {
+    if (soundPool != null && scheduledFuture != null) {
       isPlaying = false;
       scheduledFuture.cancel(false);
     }
