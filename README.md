@@ -1,3 +1,4 @@
+# Is project is forkied from kotlyar562
 # react-native-metronome
 
 # NOTE! For now supported only Android!
@@ -5,7 +6,7 @@
 ## Getting started
 
 Add to package.json dependencies line
-`"react-native-metronome": "git://github.com/kotlyar562/react-native-metronome.git"`
+`"react-native-metronome": "git://github.com/bonfimjustino7/react-native-metronome.git"`
 
 ### Mostly automatic installation
 
